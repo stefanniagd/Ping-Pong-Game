@@ -4,7 +4,7 @@
 This repository is based on the Pong game, manufactured by Atari in 1972 and created by **Allan Alcorn** as a training exercise. It follows the 100 Days of Code **Python** course by **Angela Yu** on Udemy.
 
 
-![Pong_Cabinet](/images/Pong_Cabinet.jpg)
+<img src="/images/Pong_Cabinet.jpg" alt="Pong_Cabinet" width="200" height="350">
 _Picture taken from Wikipedia_
 >An upright cabinet of Pong on display at the Neville Public Museum of Brown County
 
