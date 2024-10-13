@@ -5,7 +5,7 @@ This repository is based on the Pong game, manufactured by Atari in 1972 and cre
 
 
 <img src="/images/Pong_Cabinet.jpg" alt="Pong_Cabinet" width="100" height="150">  
-_Picture taken from Wikipedia_
+*Picture taken from Wikipedia*  
 >An upright cabinet of Pong on display at the Neville Public Museum of Brown County
 
 ### Features
