@@ -5,8 +5,8 @@ This repository is based on the Pong game, manufactured by Atari in 1972 and cre
 
 
 <img src="/images/Pong_Cabinet.jpg" alt="Pong_Cabinet" width="100" height="150">  
-*Picture taken from Wikipedia*  
->An upright cabinet of Pong on display at the Neville Public Museum of Brown County
+__Picture taken from Wikipedia__
+> An upright cabinet of Pong on display at the Neville Public Museum of Brown County
 
 ### Features
 It uses the Turtle module from Python and the concept of *class inheritance*.
