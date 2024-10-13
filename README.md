@@ -1,11 +1,11 @@
 # Pong Game in Python :ping_pong:
 
 
-This repository is based on the Pong game, manufactured by Atari in 1972 and created by *Allan Alcorn* as a training exercise. It follows the 100 Days of Code *Python* course by *Angela Yu* on Udemy.
+This repository is based on the Pong game, manufactured by Atari in 1972 and created by **Allan Alcorn** as a training exercise. It follows the 100 Days of Code **Python** course by **Angela Yu** on Udemy.
 
 
-![Pong_Cabinet](/Images/Pong_Cabinet.jpg)
-Picture taken from Wikipedia 
+![Pong_Cabinet](/images/Pong_Cabinet.jpg)
+_Picture taken from Wikipedia_
 >An upright cabinet of Pong on display at the Neville Public Museum of Brown County
 
 ### Features
